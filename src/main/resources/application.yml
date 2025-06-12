@@ -2,3 +2,4 @@ spring:
   threads:
     virtual:
       enabled: true
+#      enabled: false       //default
